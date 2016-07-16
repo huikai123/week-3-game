@@ -41,14 +41,4 @@ document.onkeyup = function(event) {
 	}
 };
 
-// for (var i = 5; i > 0; i--) {
-// 	if (userGuess===computerGuess) {
-// 		return (wins+=1);
-// 		return ("You win!");
-// 	}
-// 	else {
-// 		return (i--);
-// 		document.write (userGuess);
-// 	}
-// };
 
